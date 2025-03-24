@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=f6e1c0&height=180&text=Su's%20Github%20😄&fontColor=9b3244&fontSize=50&animation=fadeIn)
 
+<!-- 기술 배지 -->
 <div align="center" display="flex">
   <div>
     <!-- html -->
@@ -44,12 +45,10 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<div>
-  <a href="https://github.com/HotNessie">dd</a>
-</div>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=moltack&show_icons=true)
 
+<a href="https://github.com/HotNessie">
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=moltack)
+</a>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotNessie&theme=moltack) -->
