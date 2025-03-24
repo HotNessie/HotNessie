@@ -45,6 +45,8 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+</br>
+
 <!-- AutoPlanning Repository -->
 <a href="https://github.com/HotNessie/AutoPlanning">
   
