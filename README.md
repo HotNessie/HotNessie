@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&theme=radical&height=180&text=Su's%20Github&animation=fadeIn&hide_border=true) -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=500&color=D83B7C&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=HotNessie)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=D83B7C&center=true&vCenter=true&repeat=false&width=435&lines=Desperately%2C+more+desperately;Back-end+web+developer;There+is+something+to+learn+everywhere)](https://git.io/typing-svg)
-<div>
+<div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D83B7C&width=435&lines=%EB%AD%90%EB%9D%BC+%EB%AD%90%EB%9D%BC+%EC%A0%81%EC%96%B4%EC%95%BC+%ED%95%A0%EA%B9%8C..)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=500&color=D83B7C&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=HotNessie)
+</div>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=D83B7C&center=true&vCenter=true&repeat=false&width=435&lines=Desperately%2C+more+desperately;Back-end+web+developer;There+is+something+to+learn+everywhere)
 </div>
 <!-- 기술 배지 -->
 <div align="center" display="flex">
