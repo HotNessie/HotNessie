@@ -30,10 +30,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
 </div>
 
-<p>
-  <a href="https://github.com/HotNessie"></a>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=moltack&show_icons=true)
-</p>
+<div>
+  <a href="https://github.com/HotNessie">dd</a>
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=moltack&show_icons=true)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=moltack)
 
