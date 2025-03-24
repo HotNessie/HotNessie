@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&theme=date_night)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=date_night&show_icons=true)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning)](https://github.com/anuraghazra/github-readme-stats)
