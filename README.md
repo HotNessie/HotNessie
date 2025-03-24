@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&theme=radical&height=180&text=Su's%20Github&animation=fadeIn&hide_border=true) -->
-<div align="center" height="400">
+<div align="center" height="400px">
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=500&color=D83B7C&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=HotNessie)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=D83B7C&center=true&width=5000&lines=Desperately%2C+more+desperately;Back-end+web+developer;There+is+something+to+learn+everywhere)
