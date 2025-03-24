@@ -48,7 +48,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=moltack&show_icons=true)
 
 <a href="https://github.com/HotNessie">
+  
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=moltack)
+
 </a>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotNessie&theme=moltack) -->
