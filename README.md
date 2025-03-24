@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=D83B7C&center=true&width=435&lines=Desperately%2C+more+desperately;Back-end+web+developer;There+is+something+to+learn+everywhere)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=D83B7C&center=true&width=450&lines=Desperately%2C+more+desperately;Back-end+web+developer;There+is+something+to+learn+everywhere)
 </div>
 <!-- 기술 배지 -->
 <div align="center" display="flex">
