@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&theme=date_night)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=date_night&show_icons=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=date_night)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotNessie&theme=date_night)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=great-gatsby&show_icons=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotNessie&theme=great-gatsby)
