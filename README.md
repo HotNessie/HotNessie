@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=f6e1c0&height=180&text=HotNessie's%20Github%20😄&fontColor=9b3244&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=f6e1c0&height=180&text=Su's%20Github%20😄&fontColor=9b3244&fontSize=50&animation=fadeIn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=moltack&show_icons=true)
 
