@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=f6e1c0&height=180&text=Su's%20Github%20😄&fontColor=9b3244&fontSize=50&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=f6e1c0&height=180&text=Su's%20Github%20😄&fontColor=9b3244&fontSize=50&animation=fadeIn&hide_border=true) -->
+
+![header](https://capsule-render.vercel.app/api?type=soft&theme=radical&height=180&text=Su's%20Github%20😄&animation=fadeIn&hide_border=true)
 
 <!-- 기술 배지 -->
 <div align="center" display="flex">
@@ -50,12 +52,10 @@ Here are some ideas to get you started:
 <!-- AutoPlanning Repository -->
 <a href="https://github.com/HotNessie/AutoPlanning">
   
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=moltack)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=radical&hide_border=true)
 </a>
 
 <!-- githib stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=moltack&show_icons=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=radical&show_icons=true&hide_border=true)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotNessie&theme=moltack) -->
