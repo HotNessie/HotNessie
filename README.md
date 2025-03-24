@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 <!-- githib stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=moltack&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=radical&show_icons=true&hide_border)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=radical&show_icons=true&hide_border=ture)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotNessie&theme=moltack) -->
