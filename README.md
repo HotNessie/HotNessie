@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&theme=great-gatsby)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=great-gatsby&show_icons=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotNessie&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=moltack&show_icons=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=moltack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotNessie&theme=moltack)
