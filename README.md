@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- fontAlign=20&fontAlignY=40& -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:f6e1c0,100:574038&height=180&text=Hi%20there%20😄&fontColor=9b3244&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=f6e1c0&height=180&text=Hi%20there%20😄&fontColor=9b3244&fontSize=50&animation=fadeIn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=moltack&show_icons=true)
 
