@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&theme=radical&height=180&text=Su's%20Github&animation=fadeIn&hide_border=true) -->
 
-<h1 align="center" style="color=#d83b7c">HotNessie</h1>
+<h1 align="center" style="color:#d83b7c">HotNessie</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D83B7C&width=435&lines=%EB%AD%90%EB%9D%BC+%EB%AD%90%EB%9D%BC+%EC%A0%81%EC%96%B4%EC%95%BC+%ED%95%A0%EA%B9%8C..)](https://git.io/typing-svg)
 
