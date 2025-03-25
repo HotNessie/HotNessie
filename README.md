@@ -50,10 +50,7 @@ Here are some ideas to get you started:
 </br>
 
 <!-- AutoPlanning Repository -->
-<a href="https://github.com/HotNessie/AutoPlanning">
-  
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=radical&hide_border=true)
-</a>
+<a href="https://github.com/HotNessie/AutoPlanning">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotNessie&repo=AutoPlanning&theme=radical&hide_border=true)</a>
 
 <!-- githib stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=radical&show_icons=true&hide_border=true)
