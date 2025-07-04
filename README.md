@@ -55,8 +55,5 @@ Here are some ideas to get you started:
 <!-- githib stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HotNessie&theme=radical&show_icons=true&hide_border=true)
 
-[![Hits](https://hits.sh/github.com/HotNessie.svg)](https://hits.sh/github.com/HotNessie/)
-<a href="https://hits.sh/github.com/HotNessie/"><img alt="Hits" src="https://hits.sh/github.com/HotNessie.svg"/></a>
-https://hits.sh/github.com/HotNessie.svg
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotNessie&theme=moltack) -->
